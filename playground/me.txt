@@ -1,5 +1,0 @@
-{{#user}}
-Name: Shariq Ahmad Khan
-Skills: HTML, CSS, JS, React, Node
-Email: shariqahmadkhan31@gmail.com
-{{/user}}
